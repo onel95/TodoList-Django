@@ -1,5 +1,9 @@
+Link to web app: http://onel95.pythonanywhere.com
+
 # TodoList-Django
 This is a todo list web application built using Django framework. Implemented using Python language with some CSS and HTML.
+
+The web application is currently running on web hosting service PythonAnywhere.
 
 This project is implemented loosely following the tutorial "How To Build A TodoApp With Django" linked below. I made multiple
 changes to the tutorial in order to create my own web application and make it a little easier to use in my opinion. 
